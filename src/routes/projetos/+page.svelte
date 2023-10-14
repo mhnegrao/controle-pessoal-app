@@ -1,9 +1,18 @@
 <script>
+	import Titulo  from '$lib/components/Titulo.svelte';
     import Container from "$lib/components/Container.svelte";
+  import Icon from "@iconify/svelte";
 </script>
 <Container>
-  <h1 class="h1">Projetos</h1>
+  <span>
+    <Icon
+        icon="mdi:folder"
+        height="none"
+        style="width: 96px; height: 96px"
+    />
+  </span>
+  <Titulo title="Projetos" myClass="h2" />
   <section>
-    <p class="h-2 font-semibold">Meus projetos do Github</p>
+    <p class="h-2 font-semibold">Projetos do Github</p>
   </section>
 </Container>
