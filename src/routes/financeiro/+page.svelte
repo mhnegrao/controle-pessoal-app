@@ -5,13 +5,13 @@
 </script>
 
 <Container>
-  <span>
+ 
     <Icon
-        icon="mdi:account-cash-outline"
+        icon="material-symbols:currency-exchange-rounded"
         height="none"
-        style="width: 96px; height: 96px"
+        style="width: 96px; height: 96px color:lightblue;"
     />
-  </span>
+  
   <Titulo title="Financeiro" myClass="h2" />
   <button
     class="p-4 bg-red-400 rounded-full hover:bg-red-600"

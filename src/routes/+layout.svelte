@@ -24,12 +24,12 @@
     {
       name: "Financeiro",
       path: "/financeiro",
-      icon: "mdi:account-cash-outline",
+      icon: "material-symbols:currency-exchange-rounded",
     },
     {
       name: "Projetos",
       path: "/projetos",
-      icon: "mdi:folder",
+      icon: "mdi:book-open-variant",
     },
     {
       name: "Tarefas",

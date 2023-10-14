@@ -6,7 +6,7 @@
 <Container>
   <span>
     <Icon
-        icon="mdi:folder"
+        icon="mdi:book-open-variant"
         height="none"
         style="width: 96px; height: 96px"
     />
