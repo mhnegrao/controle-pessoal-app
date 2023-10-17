@@ -37,6 +37,11 @@
       icon: "mdi:book-clock-outline",
     },
     {
+      name: "Usuários",
+      path: "/usuario",
+      icon: "mdi:users",
+    },
+    {
       name: "Sobre",
       path: "/about",
       icon: "mdi:pencil-circle",
