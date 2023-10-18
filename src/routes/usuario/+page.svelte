@@ -65,8 +65,8 @@
             <td>{usuario.status}</td>
             <td>{usuario.created_at.toLocaleString()}</td>
             <td>
-              <button class="btn btn-primary">Editar</button>
-              <button class="btn btn-danger">Excluir</button>
+              <button class="text-blue-400 font-semibold hover:bg-blue-600 hover:p-1 hover:rounded-sm hover:text-white hover:font-semibold">Editar</button>
+              <button class="text-red-400 font-semibold hover:bg-red-600 hover:p-1 hover:rounded-sm hover:text-white hover:font-semibold">Excluir</button>
             </td>
           </tr>
         {/each}
