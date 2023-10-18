@@ -52,7 +52,7 @@
           <th>Nível</th>
           <th>Status</th>
           <th>Criado Em</th>
-          <th>Ações</th>
+          <th colspan="2">Ações</th>
         </tr>
       </thead>
       <tbody>
